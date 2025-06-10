@@ -1,5 +1,4 @@
 # bda-modulo-3-evaluacion-final-LaraDomenech
-bda-modulo-3-evaluacion-final-LaraDomenech created by GitHub Classroom
 
 📖 Este repositorio recoge el trabajo completo de la Evaluación Final del Módulo 3: Transformando Datos. Los objetivos son:
   - Preparar y limpiar datos de actividad de vuelo y fidelización de clientes.
