@@ -16,7 +16,7 @@ Se utilizan dos fuentes de datos:
   - Buenas prácticas en el código
   - Control de versiones Git
 
-🛠️ HERRAMIENTAS
+🛠️ Herramientas:
   - Lenguaje: Python
   - Entorno: Jupyter Notebook
   - Librerías:
